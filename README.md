@@ -117,15 +117,14 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RandomAssassin-rgb&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=RandomAssassin-rgb&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RandomAssassin-rgb&theme=radical" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RandomAssassin-rgb&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomAssassin-rgb&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RandomAssassin-rgb&theme=radical" alt="Top languages" />
 </p>
 
----
 
 # 🏆 Achievements
 - 🥇 Top 30 Finalist — NITS Hacks 8.0
