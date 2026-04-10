@@ -1,67 +1,64 @@
 <h1 align="center">Hey 👋, I'm Bourneil Akash Barman</h1>
+<h3 align="center">🚀 AI/ML Engineer | Full-Stack Developer | Building Intelligent Systems</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Building+Real-World+AI+Systems;Hackathon+Builder+⚡;Future+ML+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Building+Real-World+AI+Systems;Hackathon+Builder+⚡;Future+ML+Engineer" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 CSE @ SRM IST  
-- 📊 Minor in Data Science @ IIT Guwahati  
-- 🤖 Building AI solutions for **real-world impact**  
-- ⚙️ Focused on **ML Engineering + Backend Systems**  
-- 🚀 Turning ideas into **production-ready products**  
+- 🎓 Computer Science student at **SRM Institute of Science and Technology**
+- 📊 Pursuing a **Minor in Data Science from IIT Guwahati**
+- 🤖 Building AI-powered solutions for **agriculture, insurance, and mental wellness**
+- ⚙️ Focused on **Machine Learning Engineering, Backend Systems, and AI Deployment**
+- 🚀 Turning ideas into **real-world, production-ready products**
 
 ---
 
 ## ⚡ What I'm Doing
-- 🔭 Machine Learning Intern @ Cognifyz  
-- 🌱 Learning advanced ML + AI deployment  
-- 🤝 Open to AI / Full Stack collaborations  
-- 💬 Ask me about Python, ML, FastAPI, Supabase, Next.js  
+- 🔭 Machine Learning Intern at **Cognifyz Technologies**
+- 🌱 Learning advanced ML systems, predictive modeling, and AI deployment
+- 🤝 Open to collaborating on **AI/ML and impactful full-stack projects**
+- 💬 Ask me about **Python, ML, FastAPI, Supabase, and Next.js**
 
 ---
 
 ## 🌐 Connect
 <p align="center">
-<a href="https://linkedin.com/in/bourneil-akash-barman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ajantabarman33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/bourneil-akash-barman">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ajantabarman33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 Projects (Live Products Mindset)
+# 🚀 Featured Projects
 
 ### 🌾 AgroVision AI
-> AI-powered crop disease detection  
-- 📸 Image-based detection  
-- 📊 Supabase backend + analytics  
-- 🚀 Helps reduce agricultural loss  
-
----
+> AI-powered crop disease detection platform  
+- 📸 Real-time image-based disease detection
+- 📊 Supabase backend with analytics/dashboard support
+- 🚀 Designed to help reduce agricultural loss
 
 ### 🛡️ Nexus Sovereign
-> AI parametric insurance system  
-- ⚙️ Next.js + FastAPI  
-- 🧠 Fraud detection ML models  
-- 💸 Automated payouts  
-
----
+> AI-powered parametric insurance platform  
+- ⚙️ Built with Next.js, FastAPI, and Supabase
+- 🧠 Includes fraud detection and dynamic pricing logic
+- 💸 Supports automated payout workflows
 
 ### 🧘 MindMate
-> AI mental wellness assistant  
-- 🤖 LLM-powered  
-- 🧠 Mood tracking + memory (RAG)  
-- 🎨 Clean UI experience  
+> AI mental wellness platform  
+- 🤖 LLM-powered assistant experience
+- 🧠 Mood tracking and memory-based personalization
+- 🎨 Clean UI focused on a calm user experience
 
 ---
 
@@ -69,22 +66,50 @@
 
 ### 🧠 AI / ML
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
 ### ⚙️ Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🗄️ Database & Cloud
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,vercel,gcp" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,vercel,gcp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -92,30 +117,32 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RandomAssassin-rgb&show_icons=true&theme=radical"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=RandomAssassin-rgb&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RandomAssassin-rgb&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomAssassin-rgb&layout=compact&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=RandomAssassin-rgb&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RandomAssassin-rgb&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
 
 # 🏆 Achievements
-- 🥇 Top 30 Finalist — NITS Hacks 8.0 (2000+ participants)
+- 🥇 Top 30 Finalist — NITS Hacks 8.0
 - 🚀 Smart India Hackathon 2025 — Team Lead
-- 💼 ML Intern @ Cognifyz Technologies  
+- 💼 Machine Learning Intern — Cognifyz Technologies
+- 💻 Python Full Stack Developer Intern — Maincrafts Technology
 
 ---
 
 # 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RandomAssassin-rgb&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=RandomAssassin-rgb&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00F7FF&height=120&section=footer"/>
 </p>
