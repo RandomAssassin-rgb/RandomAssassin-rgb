@@ -25,6 +25,7 @@
 - 🌱 Learning advanced ML systems, predictive modeling, and AI deployment
 - 🤝 Open to collaborating on **AI/ML and impactful full-stack projects**
 - 💬 Ask me about **Python, ML, FastAPI, Supabase, and Next.js**
+- 🌐 Portfolio: **[bourneilakashbarman.netlify.app](https://bourneilakashbarman.netlify.app/)**
 
 ---
 
@@ -35,6 +36,9 @@
   </a>
   <a href="mailto:ajantabarman33@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://bourneilakashbarman.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -125,6 +129,7 @@
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RandomAssassin-rgb&theme=radical" alt="Top languages" />
 </p>
 
+---
 
 # 🏆 Achievements
 - 🥇 Top 30 Finalist — NITS Hacks 8.0
